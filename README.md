@@ -26,7 +26,7 @@ It works both online (multiplayer lobbies) and offline (single device).
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/match-mixer.git](https://github.com/YOUR_USERNAME/match-mixer.git)
+    git clone https://github.com/Termdamp/MatchMixer.git
     cd match-mixer
     ```
 
@@ -54,3 +54,4 @@ eas build -p android --profile preview
 ## Developer
 
 **Yash Raj**
+
