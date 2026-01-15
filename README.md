@@ -51,5 +51,6 @@ To make the installable file for your phone:
 ```bash
 eas build -p android --profile preview
 
-Developer
-Yash Raj
+## Developer
+
+**Yash Raj**
